@@ -1,1 +1,1 @@
-# Disjoint-Set-Union-DSU-
+# Disjoint Set Union (DSU)
